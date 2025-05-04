@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'backend-sbd9-audy.railway.internal';
 
 // General error handler for responses
 const handleResponse = async (response) => {
