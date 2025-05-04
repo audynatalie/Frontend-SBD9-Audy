@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://backend-sbd-9-audy.vercel.app/';
+const API_BASE_URL = 'https://backendfix-sbd-9-audy-jkx9.vercel.app';
 
 // General error handler for responses
 const handleResponse = async (response) => {
