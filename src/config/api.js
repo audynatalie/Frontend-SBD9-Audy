@@ -12,7 +12,7 @@ const handleResponse = async (response) => {
 // Get all Todos
 export const getAllTodos = async () => {
   try {
-    const response = await fetch(`${API_BASE_URL}/`, { // Assuming the backend route is '/todos'
+    const response = await fetch(`${API_BASE_URL}/All`, { // Assuming the backend route is '/todos'
       method: 'GET',
       headers: {
         'Content-Type': 'application/json',
