@@ -1,4 +1,4 @@
-const API_BASE_URL = 'backend-sbd9-audy.railway.internal';
+const API_BASE_URL = 'https://backend-sbd9-audy-production.up.railway.app/';
 
 // General error handler for responses
 const handleResponse = async (response) => {
